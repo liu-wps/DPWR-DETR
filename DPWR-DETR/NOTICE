@@ -1,0 +1,11 @@
+DPWR-DETR partial reference implementation
+
+The multi-scale deformable attention implementation is adapted from the
+Ultralytics RT-DETR implementation and upstream Deformable DETR work. Refer to
+the source comments in dpwr_detr/dird.py and the AGPL-3.0 license distributed
+with this repository.
+
+Upstream references:
+- https://github.com/ultralytics/ultralytics
+- https://github.com/fundamentalvision/Deformable-DETR
+- https://github.com/IDEA-Research/detrex

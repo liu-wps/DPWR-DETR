@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these modules, please cite the associated paper."
+title: "DPWR-DETR Core Modules: Partial Reference Implementation"
+type: software
+version: 0.1.0
+license: AGPL-3.0-only
+authors:
+  - family-names: "Zhao"
+    given-names: "Hongyang"
+  - family-names: "Liu"
+    given-names: "Yun"
+  - family-names: "Jiang"
+    given-names: "Tao"
+  - family-names: "Liu"
+    given-names: "Yi"
+  - family-names: "Jin"
+    given-names: "Jing"
+  - family-names: "Shen"
+    given-names: "Yi"
